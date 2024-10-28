@@ -1,0 +1,11 @@
+#titulo {
+    color: rgb(195, 131, 220);
+}
+
+.destacado {
+    font-weight: bold;
+}
+
+.contenedor {
+    background-color: #56c9e0;
+}
